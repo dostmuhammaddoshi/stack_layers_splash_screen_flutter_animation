@@ -1,6 +1,6 @@
 # splash_screen_animation
 
-A new Flutter project.
+Splash Screen Animation, Animating logo and title with the help of FadeTransition, AnimatedAlign and Animation widgets etc.
 
 ## Getting Started
 
