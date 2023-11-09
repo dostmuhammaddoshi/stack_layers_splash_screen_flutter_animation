@@ -1,0 +1,34 @@
+<svg id="bottom_layer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="181.793" height="175.13" viewBox="0 0 181.793 175.13">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_4646" data-name="Path 4646" d="M78.773,72.042,5.022,114.621c-6.7,3.866-6.7,10.134,0,14L78.773,171.2c6.7,3.866,17.552,3.866,24.248,0l73.75-42.579c3.348-1.933,5.022-4.466,5.022-7s-1.674-5.067-5.022-7l-73.75-42.579a24.783,24.783,0,0,0-12.124-2.9,24.78,24.78,0,0,0-12.124,2.9" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.17" y1="0.831" x2="0.174" y2="0.831" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#95ce9c"/>
+      <stop offset="0.485" stop-color="#84cc39"/>
+      <stop offset="1" stop-color="#3fb33d"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_9994" data-name="Rectangle 9994" width="181.793" height="175.13" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_9993" data-name="Rectangle 9993" width="181.569" height="105.784" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="bottom-layer" transform="translate(0 0.884)">
+    <g id="Group_6339" data-name="Group 6339" clip-path="url(#clip-path)">
+      <path id="Path_4645" data-name="Path 4645" d="M9.965,200.885l216.548-32.539L170.154,43.324-46.395,75.863Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <g id="bottom-layer-border">
+    <g id="Group_6344" data-name="Group 6344" clip-path="url(#clip-path-2)">
+      <g id="Group_6343" data-name="Group 6343" transform="translate(0.112 69.346)" opacity="0.8">
+        <g id="Group_6342" data-name="Group 6342">
+          <g id="Group_6341" data-name="Group 6341" clip-path="url(#clip-path-3)">
+            <path id="Path_4647" data-name="Path 4647" d="M102.588,72.306l73.75,42.8c6.457,3.747,6.457,9.822,0,13.569l-73.75,42.8c-6.457,3.747-16.926,3.747-23.383,0l-73.75-42.8C-1,124.923-1,118.848,5.455,115.1l73.75-42.8C85.662,68.559,96.131,68.559,102.588,72.306Z" transform="translate(-0.112 -68.993)" fill="none" stroke="#9fe851" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

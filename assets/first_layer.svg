@@ -1,0 +1,34 @@
+<svg id="Component_4_1" data-name="Component 4 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="181.793" height="174.246" viewBox="0 0 181.793 174.246">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_4649" data-name="Path 4649" d="M78.773,49,5.022,91.577c-6.7,3.865-6.7,10.133,0,14l73.751,42.579c6.7,3.866,17.552,3.866,24.248,0l73.75-42.579c3.348-1.933,5.022-4.466,5.022-7s-1.674-5.067-5.022-7L103.021,49A24.783,24.783,0,0,0,90.9,46.1,24.78,24.78,0,0,0,78.773,49" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.17" y1="0.977" x2="0.174" y2="0.977" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b4e1ba"/>
+      <stop offset="0.485" stop-color="#95dc4a"/>
+      <stop offset="1" stop-color="#66cf64"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_9996" data-name="Rectangle 9996" width="181.793" height="174.246" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_9995" data-name="Rectangle 9995" width="181.569" height="105.25" transform="translate(0.112 45.951)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="first-layer">
+    <g id="Group_6346" data-name="Group 6346" clip-path="url(#clip-path)">
+      <path id="Path_4648" data-name="Path 4648" d="M9.965,177.84,226.514,145.3,170.154,20.279-46.395,52.818Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <g id="first-layer-border">
+    <g id="Group_6351" data-name="Group 6351" clip-path="url(#clip-path-2)">
+      <g id="Group_6350" data-name="Group 6350" opacity="0.8">
+        <g id="Group_6349" data-name="Group 6349">
+          <g id="Group_6348" data-name="Group 6348" clip-path="url(#clip-path-3)">
+            <path id="Path_4650" data-name="Path 4650" d="M102.588,49.247l73.75,42.579c6.457,3.728,6.457,9.772,0,13.5L102.588,147.9c-6.457,3.728-16.926,3.728-23.383,0L5.455,105.326C-1,101.6-1,95.554,5.455,91.826l73.75-42.579C85.662,45.519,96.131,45.519,102.588,49.247Z" fill="none" stroke="#9fe851" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
